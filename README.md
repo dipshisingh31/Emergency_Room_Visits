@@ -8,10 +8,10 @@ Dataset consists of around 9k records of patients who visited the emergency room
 
 ## ✏️ Data cleaning
 
-•	Separated the date and time values into two fields instead of one
-•	Converted patient's wait-time to minutes
-•	Created a separate group for rows with missing/unknown values
-•	Hid the patient_admin_flag that was not required
+-	Separated the date and time values into two fields instead of one
+-	Converted patient's wait-time to minutes
+-	Created a separate group for rows with missing/unknown values
+-	Hid the patient_admin_flag that was not required
  
 
 ## 📊 Visualization
@@ -26,7 +26,7 @@ Dataset consists of around 9k records of patients who visited the emergency room
 •	The percentage of male to female patients for different scenarios can be recorded. eg. for each month/time, race, department referred to, the percentage of male and female patient's will vary
 
 
-ER Visits Tableau link: (https://public.tableau.com/views/ERHealth/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ER Visits Tableau [Link](https://public.tableau.com/views/ERHealth/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Emergency Room Visits Tableau Dashboard](ER_Tableau_Dashboard_Snapshot.JPG)
 
