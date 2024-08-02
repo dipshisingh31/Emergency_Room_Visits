@@ -28,7 +28,7 @@ Dataset consists of around 9k records of patients who visited the emergency room
 
 ## ER Visits Tableau [Link](https://public.tableau.com/views/ERHealth/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Emergency Room Visits Tableau Dashboard](ER_Tableau_Dashboard_Snapshot.JPG)
+![Emergency Room Visits Tableau Dashboard](ER_Tableau_Dashboard_Snapshot_2.JPG)
 
 
 
